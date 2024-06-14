@@ -27,8 +27,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  Surabaya, Jawa Timur, Indonesia.
                 </p>
                 <div className="flex items-center">
                   <a
@@ -217,7 +216,7 @@ const Footer = () => {
             <p className="text-center text-base text-body-color dark:text-white">
               Designed by{" "}
               <a
-                href="http://uideck.com"
+                href="http://github.com/Agoooy"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary"
@@ -226,7 +225,7 @@ const Footer = () => {
               </a>{" "}
               and{" "}
               <a
-                href="https://nextjstemplates.com"
+                href="https://github.com/Agoooy"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary"

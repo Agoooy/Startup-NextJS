@@ -14,7 +14,7 @@ const Video = () => {
       <div className="container">
         <SectionTitle
           title="We are ready to help"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Our dedicated support team is always available to assist you. Whether you need technical help, guidance on features, or have any questions, we're here to ensure your experience is smooth and successful."
           center
           mb="80px"
         />

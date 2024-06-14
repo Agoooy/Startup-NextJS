@@ -31,8 +31,10 @@ const AboutSectionTwo = () => {
                   Bug free code
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Bug free code for a startup website project ensures the absence of errors
+                  that could disrupt functionality or user experience. It involves comprehensive testing,
+                  through code reviews, effective logging and monitoring, adherence to best practices,
+                  and ongoing maintenance to prevent and resolve bugs promptly.
                 </p>
               </div>
               <div className="mb-9">
@@ -40,8 +42,9 @@ const AboutSectionTwo = () => {
                   Premier support
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                  Premier support provides high-level assistance with quick response times,
+                  priority handling of critical issues, proactive monitoring, regular updates, and access to expert
+                  guidance, ensuring smooth operations and high-quality service for projects or products.
                 </p>
               </div>
               <div className="mb-1">
@@ -49,8 +52,8 @@ const AboutSectionTwo = () => {
                   Next.js
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                  Next.JS is a versatile React framework that enables efficient server-side rendering, seammless client-side
+                  navigation, and simplified API routes, making it ideal for building fast and scalable web applications.
                 </p>
               </div>
             </div>

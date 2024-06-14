@@ -11,8 +11,7 @@ const NewsLatterBox = () => {
         Subscribe to receive future updates
       </h3>
       <p className="mb-11 border-b border-body-color border-opacity-25 pb-11 text-base leading-relaxed text-body-color dark:border-white dark:border-opacity-25">
-        Lorem ipsum dolor sited Sed ullam corper consectur adipiscing Mae ornare
-        massa quis lectus.
+        Subscribing to updates ensures your applications remain relevant, secure agains new threats, and benefit from new features and performance enhancements, enhancing user experience and competitiveness in the market.
       </p>
       <div>
         <input
