@@ -5,7 +5,7 @@ const blogData: Blog[] = [
     id: 1,
     title: "Best UI components for modern websites",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Make sure your website includes Navbar, Hero Section, Card Components, CTA Buttons, Animated Elements, Footer, Slider, Icons, Form Components, and Responsive Design for a modern and appealing look.",
     image: "/images/blog/blog-01.jpg",
     author: {
       name: "Samuyl Joshi",
@@ -19,7 +19,7 @@ const blogData: Blog[] = [
     id: 2,
     title: "9 simple ways to improve your design skills",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "To improve your design skills, practice regularly, learn design principles, seek inspiration, get feedback, experiment with tools, stay updated with trends, simplify your design, collaborate with others, and learn from mistakes.",
     image: "/images/blog/blog-02.jpg",
     author: {
       name: "Musharof Chy",
@@ -33,7 +33,7 @@ const blogData: Blog[] = [
     id: 3,
     title: "Tips to quickly improve your coding speed.",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "Make sure to practice consistenly, grasp fundamental concepts, utilize online resource, tackle daily challenges, seek feedback from peers, explore new languages, stay updated with trends, prioritize efficiency in your code, and hone your debugging skills.",
     image: "/images/blog/blog-03.jpg",
     author: {
       name: "Lethium Deo",
